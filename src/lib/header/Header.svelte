@@ -55,6 +55,6 @@
 	}
 
 	a.active {
-		color: green;
+		text-decoration: underline;
 	}
 </style>

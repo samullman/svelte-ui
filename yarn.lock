@@ -151,6 +151,11 @@
   resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.16.6.tgz#8f194828193e8fa79166f34a4b4e52f3e769a314"
   integrity sha512-Gr86ujcNuPDnNOY8mi383Hvi8IYrJVJYuf3XcuBM/Dgd+bINn/7tHqsj+tKkoreMbmGsFLsltI/JJd8fOFWGDQ==
 
+"@beyonk/svelte-mapbox@^8.1.4":
+  version "8.1.4"
+  resolved "https://registry.yarnpkg.com/@beyonk/svelte-mapbox/-/svelte-mapbox-8.1.4.tgz#2c52c6c056baa182c5799a3710f0974b579eb25f"
+  integrity sha512-H7c5i+iWReb3try5Vk2rIeIXJ6BqmO3eb8OeBntrdKAiKEA0ye7n5t4C13Ne4vvMrfqqzyHuV6kGsM0y/g+lJg==
+
 "@docsearch/css@3.0.0-alpha.42", "@docsearch/css@^3.0.0-alpha.41":
   version "3.0.0-alpha.42"
   resolved "https://registry.yarnpkg.com/@docsearch/css/-/css-3.0.0-alpha.42.tgz#deb6049e999d6ca9451eba4793cb5b6da28c8773"

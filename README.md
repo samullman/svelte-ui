@@ -1,6 +1,6 @@
 # Svelte-UI
 
-Very chill svelte-based, cross-browser UI library with utilities.
+Very chill, svelte-based, cross-browser UI library with utilities.
 
 ## Roadmap
 
@@ -8,6 +8,7 @@ Very chill svelte-based, cross-browser UI library with utilities.
 	Section
 	Seciton.Hero
 
+	Checkbox
 
 
 

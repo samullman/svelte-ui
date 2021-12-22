@@ -1,0 +1,242 @@
+$ svelte-kit dev
+
+  SvelteKit v1.0.0-next.202
+
+  local:   http://localhost:3000
+  network: not exposed
+
+  Use --host to expose server to other devices on this network
+
+
+11:45:44 AM [vite] hmr update /src/routes/components/accordion.svelte
+11:46:12 AM [vite] hmr update /src/routes/components/accordion.svelte
+11:46:28 AM [vite] hmr update /src/routes/components/accordion.svelte
+11:46:59 AM [vite] hmr update /src/lib/components/accordion/Accordion.svelte
+11:46:59 AM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/Accordion.svelte:20:1 Unused CSS selector "asdf"
+11:47:12 AM [vite] hmr update /src/lib/components/accordion/Accordion.svelte?svelte&type=style&lang.css
+hmr update /src/lib/components/accordion/Accordion.svelte
+11:47:34 AM [vite] hmr update /src/lib/components/accordion/Accordion.svelte
+11:47:34 AM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/Accordion.svelte:24:1 Unused CSS selector ".accordion .item svg"
+11:47:40 AM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/Accordion.svelte:24:1 Unused CSS selector ".accordion .item svg"
+11:47:43 AM [vite] hmr update /src/lib/components/accordion/Accordion.svelte?svelte&type=style&lang.css
+11:47:51 AM [vite] hmr update /src/lib/components/accordion/Accordion.svelte?svelte&type=style&lang.css
+11:48:09 AM [vite] hmr update /src/lib/components/accordion/Accordion.svelte
+11:48:14 AM [vite] hmr update /src/lib/components/accordion/Accordion.svelte?svelte&type=style&lang.css
+11:49:41 AM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/Accordion.svelte:25:1 Unused CSS selector ".accordion .item svg"
+11:49:41 AM [vite] hmr update /src/lib/components/accordion/Accordion.svelte?svelte&type=style&lang.css
+11:49:45 AM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/Accordion.svelte:25:1 Unused CSS selector ".accordion .item svg"
+11:49:46 AM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/Accordion.svelte:25:1 Unused CSS selector ".accordion .item svg"
+11:49:47 AM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/Accordion.svelte:25:1 Unused CSS selector ".accordion .item svg"
+11:49:56 AM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/Accordion.svelte:25:1 Unused CSS selector "svg"
+11:50:20 AM [vite] hmr update /src/lib/components/accordion/Accordion.svelte?svelte&type=style&lang.css
+11:50:23 AM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/Accordion.svelte:25:1 Unused CSS selector ".accordion svg"
+11:50:23 AM [vite] hmr update /src/lib/components/accordion/Accordion.svelte?svelte&type=style&lang.css
+11:50:44 AM [vite] hmr update /src/lib/components/accordion/Accordion.svelte?svelte&type=style&lang.css
+hmr update /src/lib/components/accordion/Accordion.svelte
+11:50:51 AM [vite] hmr update /src/lib/components/accordion/Accordion.svelte?svelte&type=style&lang.css
+11:55:44 AM [vite] hmr update /src/lib/components/accordion/Accordion.svelte
+11:56:58 AM [vite] hmr update /src/lib/components/accordion/Accordion.svelte?svelte&type=style&lang.css
+11:57:11 AM [vite] hmr update /src/lib/components/accordion/Accordion.svelte?svelte&type=style&lang.css
+11:57:16 AM [vite] hmr update /src/lib/components/accordion/Accordion.svelte?svelte&type=style&lang.css
+11:57:18 AM [vite] hmr update /src/lib/components/accordion/Accordion.svelte?svelte&type=style&lang.css
+11:57:28 AM [vite] hmr update /src/lib/components/accordion/Accordion.svelte?svelte&type=style&lang.css
+11:57:36 AM [vite] hmr update /src/lib/components/accordion/Accordion.svelte?svelte&type=style&lang.css
+11:57:52 AM [vite] hmr update /src/lib/components/accordion/Accordion.svelte?svelte&type=style&lang.css
+11:58:18 AM [vite] hmr update /src/lib/components/accordion/Accordion.svelte?svelte&type=style&lang.css
+11:58:42 AM [vite] hmr update /src/lib/components/accordion/Accordion.svelte?svelte&type=style&lang.css
+11:59:22 AM [vite] hmr update /src/lib/components/accordion/Accordion.svelte?svelte&type=style&lang.css
+11:59:38 AM [vite] hmr update /src/lib/components/accordion/Accordion.svelte?svelte&type=style&lang.css
+hmr update /src/lib/components/accordion/Accordion.svelte
+11:59:38 AM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/Accordion.svelte:33:0 Unused CSS selector ".accordion .icon"
+11:59:49 AM [vite] hmr update /src/lib/components/accordion/Accordion.svelte
+11:59:49 AM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/Accordion.svelte:36:0 Unused CSS selector ".accordion .icon"
+11:59:55 AM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/Accordion.svelte:36:0 Unused CSS selector ".accordion .icon"
+11:59:58 AM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/Accordion.svelte:36:0 Unused CSS selector ".accordion .icon"
+11:59:58 AM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/Accordion.svelte:36:0 Unused CSS selector ".accordion .icon"
+12:00:05 PM [vite] hmr update /src/lib/components/accordion/Accordion.svelte?svelte&type=style&lang.css
+hmr update /src/lib/components/accordion/Accordion.svelte
+12:00:13 PM [vite] hmr update /src/lib/components/accordion/Accordion.svelte?svelte&type=style&lang.css
+12:00:16 PM [vite] hmr update /src/lib/components/accordion/Accordion.svelte?svelte&type=style&lang.css
+12:00:24 PM [vite] hmr update /src/lib/components/accordion/Accordion.svelte?svelte&type=style&lang.css
+12:00:44 PM [vite] hmr update /src/lib/components/accordion/Accordion.svelte?svelte&type=style&lang.css
+12:00:51 PM [vite] hmr update /src/lib/components/accordion/Accordion.svelte?svelte&type=style&lang.css
+12:01:47 PM [vite] hmr update /src/lib/components/accordion/Accordion.svelte
+12:01:51 PM [vite] hmr update /src/lib/components/accordion/Accordion.svelte
+12:02:10 PM [vite] hmr update /src/lib/components/accordion/Accordion.svelte?svelte&type=style&lang.css
+12:02:23 PM [vite] hmr update /src/lib/components/accordion/Accordion.svelte?svelte&type=style&lang.css
+12:02:25 PM [vite] hmr update /src/lib/components/accordion/Accordion.svelte?svelte&type=style&lang.css
+12:02:34 PM [vite] hmr update /src/lib/components/accordion/Accordion.svelte?svelte&type=style&lang.css
+12:02:47 PM [vite] hmr update /src/lib/components/accordion/Accordion.svelte?svelte&type=style&lang.css
+12:03:00 PM [vite] hmr update /src/lib/components/accordion/Accordion.svelte?svelte&type=style&lang.css
+12:03:06 PM [vite] hmr update /src/lib/components/accordion/Accordion.svelte?svelte&type=style&lang.css
+12:03:23 PM [vite] hmr update /src/lib/components/accordion/Accordion.svelte?svelte&type=style&lang.css
+12:03:42 PM [vite] hmr update /src/lib/components/accordion/Accordion.svelte?svelte&type=style&lang.css
+12:04:22 PM [vite] hmr update /src/lib/components/accordion/Accordion.svelte?svelte&type=style&lang.css
+12:09:31 PM [vite] hmr update /src/lib/components/accordion/Accordion.svelte?svelte&type=style&lang.css
+hmr update /src/lib/components/accordion/Accordion.svelte
+12:09:33 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:43:0 Unused CSS selector ".accordion .icon"
+12:09:34 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:43:0 Unused CSS selector ".accordion .icon"
+12:09:57 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte
+12:09:57 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:43:0 Unused CSS selector ".accordion .icon"
+12:10:16 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+12:10:22 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+12:10:40 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+12:10:42 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+12:10:52 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+12:11:26 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:39:0 Unused CSS selector ".accordion .item-description:last-child"
+12:11:26 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+12:11:27 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:39:0 Unused CSS selector ".accordion .item-description:last-child"
+12:11:27 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+12:11:27 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:39:0 Unused CSS selector ".accordion .item-description:last-child"
+12:11:42 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:39:0 Unused CSS selector ".accordion .item-description:last-child"
+12:11:42 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:39:0 Unused CSS selector ".accordion .item-description:last-child"
+12:11:44 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+12:11:59 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+12:12:09 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+12:12:21 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+12:12:29 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+12:12:39 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+12:12:42 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+12:12:46 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+12:12:50 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+12:12:57 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+12:12:58 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+12:13:26 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+12:13:34 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+12:13:36 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+12:13:40 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+12:13:46 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+12:14:28 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+12:14:45 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+12:15:19 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+12:15:31 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+12:15:46 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+12:15:50 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+12:16:13 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+12:16:54 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+12:17:10 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+12:17:26 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+12:17:36 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+12:17:53 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+1:52:58 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte
+1:52:58 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:20:30 'slide' is not defined
+1:52:58 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:31:0 Unused CSS selector "button"
+1:52:58 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:43:0 Unused CSS selector "svg"
+1:52:58 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:47:0 Unused CSS selector "[aria-expanded=true] svg"
+1:53:07 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:20:30 'slide' is not defined
+1:53:07 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:31:0 Unused CSS selector "button"
+1:53:07 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:43:0 Unused CSS selector "svg"
+1:53:07 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:47:0 Unused CSS selector "[aria-expanded=true] svg"
+1:53:21 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte
+1:53:21 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:20:30 'slide' is not defined
+1:53:21 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:31:0 Unused CSS selector "button"
+1:53:21 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:43:0 Unused CSS selector "svg"
+1:53:21 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:47:0 Unused CSS selector "[aria-expanded=true] svg"
+1:53:25 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte
+1:53:25 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:20:30 'slide' is not defined
+1:53:25 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:31:0 Unused CSS selector "button"
+1:53:25 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:43:0 Unused CSS selector "svg"
+1:53:25 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:47:0 Unused CSS selector "[aria-expanded=true] svg"
+1:53:25 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:20:30 'slide' is not defined
+1:53:25 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:31:0 Unused CSS selector "button"
+1:53:25 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:43:0 Unused CSS selector "svg"
+1:53:25 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:47:0 Unused CSS selector "[aria-expanded=true] svg"
+1:53:29 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:20:30 'slide' is not defined
+1:53:29 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:31:0 Unused CSS selector "button"
+1:53:29 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:43:0 Unused CSS selector "svg"
+1:53:29 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:47:0 Unused CSS selector "[aria-expanded=true] svg"
+1:53:50 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+hmr update /src/lib/components/accordion/AccordionRow.svelte
+1:53:50 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:20:30 'slide' is not defined
+1:53:50 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:43:0 Unused CSS selector "svg"
+1:53:50 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:47:0 Unused CSS selector "[aria-expanded=true] svg"
+1:53:57 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+hmr update /src/lib/components/accordion/AccordionRow.svelte
+1:53:57 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:20:30 'slide' is not defined
+1:53:57 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:31:0 Unused CSS selector "button"
+1:53:57 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:43:0 Unused CSS selector "svg"
+1:53:57 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:47:0 Unused CSS selector "[aria-expanded=true] svg"
+1:54:14 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte
+1:54:14 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:32:0 Unused CSS selector "button"
+1:54:14 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:44:0 Unused CSS selector "svg"
+1:54:14 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:48:0 Unused CSS selector "[aria-expanded=true] svg"
+1:54:20 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte
+1:54:20 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:31:0 Unused CSS selector "button"
+1:54:20 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:43:0 Unused CSS selector "svg"
+1:54:20 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:47:0 Unused CSS selector "[aria-expanded=true] svg"
+1:54:21 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte
+1:54:21 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:30:0 Unused CSS selector "button"
+1:54:21 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:42:0 Unused CSS selector "svg"
+1:54:21 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:46:0 Unused CSS selector "[aria-expanded=true] svg"
+1:54:21 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:30:0 Unused CSS selector "button"
+1:54:21 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:42:0 Unused CSS selector "svg"
+1:54:21 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:46:0 Unused CSS selector "[aria-expanded=true] svg"
+1:55:16 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:30:0 Unused CSS selector "button"
+1:55:16 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:42:0 Unused CSS selector "svg"
+1:55:16 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:46:0 Unused CSS selector "[aria-expanded=true] svg"
+1:55:16 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+1:55:29 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:30:0 Unused CSS selector "button"
+1:55:29 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:42:0 Unused CSS selector "svg"
+1:55:29 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:46:0 Unused CSS selector "[aria-expanded=true] svg"
+1:55:29 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+1:55:29 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:30:0 Unused CSS selector "button"
+1:55:29 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:42:0 Unused CSS selector "svg"
+1:55:29 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:46:0 Unused CSS selector "[aria-expanded=true] svg"
+1:55:31 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:30:0 Unused CSS selector "button"
+1:55:31 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:42:0 Unused CSS selector "svg"
+1:55:31 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:46:0 Unused CSS selector "[aria-expanded=true] svg"
+1:55:32 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:30:0 Unused CSS selector "button"
+1:55:32 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:42:0 Unused CSS selector "svg"
+1:55:32 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:46:0 Unused CSS selector "[aria-expanded=true] svg"
+1:55:50 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:30:0 Unused CSS selector "button"
+1:55:50 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:42:0 Unused CSS selector "svg"
+1:55:50 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:46:0 Unused CSS selector "[aria-expanded=true] svg"
+1:55:50 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+1:55:54 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:30:0 Unused CSS selector "button"
+1:55:54 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:42:0 Unused CSS selector "svg"
+1:55:54 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:46:0 Unused CSS selector "[aria-expanded=true] svg"
+1:55:55 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:30:0 Unused CSS selector "button"
+1:55:55 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:42:0 Unused CSS selector "svg"
+1:55:55 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:46:0 Unused CSS selector "[aria-expanded=true] svg"
+1:56:24 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:32:0 Unused CSS selector "svg"
+1:56:24 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:36:0 Unused CSS selector "[aria-expanded=true] svg"
+1:56:48 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:32:0 Unused CSS selector "svg"
+1:56:48 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:36:0 Unused CSS selector "[aria-expanded=true] svg"
+1:56:48 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+1:56:51 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:32:0 Unused CSS selector "svg"
+1:56:51 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:36:0 Unused CSS selector "[aria-expanded=true] svg"
+1:56:51 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+1:57:09 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:32:0 Unused CSS selector "svg"
+1:57:09 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:36:0 Unused CSS selector "[aria-expanded=true] svg"
+1:57:09 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+1:57:12 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:32:0 Unused CSS selector "svg"
+1:57:12 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:36:0 Unused CSS selector "[aria-expanded=true] svg"
+1:57:13 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:32:0 Unused CSS selector "svg"
+1:57:13 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:36:0 Unused CSS selector "[aria-expanded=true] svg"
+1:57:13 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+1:57:19 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:32:0 Unused CSS selector "svg"
+1:57:19 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:36:0 Unused CSS selector "[aria-expanded=true] svg"
+1:57:19 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+1:57:23 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:32:0 Unused CSS selector "svg"
+1:57:23 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:36:0 Unused CSS selector "[aria-expanded=true] svg"
+1:57:24 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:32:0 Unused CSS selector "svg"
+1:57:24 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:36:0 Unused CSS selector "[aria-expanded=true] svg"
+1:58:11 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:32:0 Unused CSS selector "svg"
+1:58:11 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:36:0 Unused CSS selector "[aria-expanded=true] svg"
+1:58:11 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+1:58:33 PM [vite] hmr update /src/lib/components/accordion/Accordion.svelte?svelte&type=style&lang.css
+2:12:53 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:32:0 Unused CSS selector "svg"
+2:12:53 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:36:0 Unused CSS selector "[aria-expanded=true] svg"
+2:12:53 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+2:13:14 PM [vite-plugin-svelte] /Users/samullman/Desktop/Ullman Labs/ullman-labs/apps/svelte-ui/src/lib/components/accordion/AccordionRow.svelte:36:0 Unused CSS selector "[aria-expanded=true] svg"
+2:13:14 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+2:13:39 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+2:15:03 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+2:15:08 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+2:15:16 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+2:15:18 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+2:15:39 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+2:15:56 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+2:16:34 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+2:16:41 PM [vite] hmr update /src/lib/components/accordion/AccordionRow.svelte?svelte&type=style&lang.css
+2:16:51 PM [vite] hmr update /src/lib/components/acco
