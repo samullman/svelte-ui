@@ -1,5 +1,5 @@
 <script>
-	import Buttons from "../../lib/components/button/section.svelte"
+	// import Buttons from "../../components/button/section.svelte"
 </script>
 
 <section>
@@ -8,6 +8,6 @@
 		<hr style="margin-top:4px;" /> 
 	</h2>
 
-	<Buttons />
+	<!-- <Buttons /> -->
 
 </section>

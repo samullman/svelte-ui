@@ -1,14 +1,15 @@
 <script lang="ts">
+	import Heading from '../../components/heading.svelte';
 	import { page } from '$app/stores';
 	import logo from './svelte-logo.svg';
 </script>
 
 <header>
-	<div class="logo">
-		<div>
-			<a sveltekit:prefetch href="/">Svelte UI</a>
+		<div class="title">
+			<a sveltekit:prefetch href="/">
+				Svelte UI
+			</a>
 		</div>
-	</div>
 
 	
 
@@ -35,6 +36,16 @@
 		padding: 1em;
 	}
 
+	.nav {
+		display: flex;
+		align-items: center;
+	}
+
+	.title {
+		font-size: 1.5em;
+		font-weight: bold;
+		margin-bottom: 0;
+	}
 	ul {
 		position: relative;
 		margin: 0;
@@ -54,7 +65,5 @@
 		color: black;		
 	}
 
-	a.active {
-		text-decoration: underline;
-	}
+	
 </style>

@@ -1,5 +1,6 @@
 <script lang="ts">
 	import Header from '$lib/header/Header.svelte';
+	import Section from "../components/section.svelte";
 	import '../app.css';
 </script>
 
@@ -7,15 +8,14 @@
 
 <main>
 	<slot />
-
-
 </main>
 
-
 <footer>
-<section>
+
+
+<Section>
 	visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit
-</section>
+</Section>
 
 </footer>
 

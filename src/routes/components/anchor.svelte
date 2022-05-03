@@ -1,16 +1,16 @@
 <script>
 	import Section from '../../components/section.svelte';
 	import Heading from '../../components/heading.svelte';
-	import Button from '../../components/button.svelte';
+	import Button from '../../components/anchor.svelte';
 	const colors = ['red', 'green', 'blue', 'yellow', 'purple', 'pink', 'orange', 'teal', 'lime'];
 </script>
 
 <Section>
-	<Heading size="h1">Buttons</Heading>
+	<Heading size="h1">Anchor</Heading>
 
 	<div>
 		<pre>
-			{"import { Button } from 'svelte-ui';"}
+			{"import { A } from 'svelte-ui';"}
 		</pre>
 	</div>
 
