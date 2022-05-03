@@ -14,8 +14,26 @@
 		</pre>
 	</div>
 
+
+	
+	{#each colors as color}
+		<Button {color} size="sm">
+			{color}
+		</Button>
+	{/each}
+
+	<br />
+
 	{#each colors as color}
 		<Button {color}>
+			{color}
+		</Button>
+	{/each}
+
+	<br />
+
+	{#each colors as color}
+		<Button {color} size="lg">
 			{color}
 		</Button>
 	{/each}

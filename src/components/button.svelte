@@ -1,13 +1,16 @@
 <script>
-	export let color;
+	export let color = "";
+	export let size = "";
 </script>
 
-<button class={ color }>
+<button class={ `${ color } ${ size }` }>
 	<slot /> 
 </button>
 
 
 <style lang="scss">
+
+
 
 button:focus:not(:focus-visible) {
 	outline: none;
@@ -24,7 +27,18 @@ button {
 	font-size: 1em;
 	padding: 0.25em 0.5em;
 	border-radius: 0.35em;
-	transition: all 21s ease;
+}
+
+button.lg {
+	padding: 0.35em 0.7em;
+	border-radius: 0.4em;
+	font-size: 1.25em;
+}
+
+button.sm {
+	padding: 0.18em 0.36em;
+	border-radius: 0.24em;
+	font-size: 0.85em;
 }
 
 button:active {
