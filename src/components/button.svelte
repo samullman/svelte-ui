@@ -1,104 +1,97 @@
 <script>
-	export let color = "";
-	export let size = "";
+	export let color = '';
+	export let size = '';
 </script>
 
-<button class={ `${ color } ${ size }` }>
-	<slot /> 
+<button class={`${color} ${size}`}>
+	<slot />
 </button>
 
-
 <style lang="scss">
+	button:focus:not(:focus-visible) {
+		outline: none;
+	}
 
+	button {
+		font-size: inherit;
+		font-family: inherit;
+		cursor: pointer;
+	}
 
+	button {
+		border-width: 0.1em;
+		font-size: 1em;
+		padding: 0.25em 0.5em;
+		border-radius: 0.35em;
+	}
 
-button:focus:not(:focus-visible) {
-	outline: none;
-}
+	button.lg {
+		padding: 0.35em 0.7em;
+		border-radius: 0.4em;
+		font-size: 1.25em;
+	}
 
-button {
-	font-size: inherit;
-	font-family: inherit;
-	cursor: pointer;
-}
+	button.sm {
+		padding: 0.18em 0.36em;
+		border-radius: 0.24em;
+		font-size: 0.85em;
+	}
 
-button {
-	border-width: 0.1em;
-	font-size: 1em;
-	padding: 0.25em 0.5em;
-	border-radius: 0.35em;
-}
+	button:active {
+		position: relative;
+		top: 0.1em;
+	}
 
-button.lg {
-	padding: 0.35em 0.7em;
-	border-radius: 0.4em;
-	font-size: 1.25em;
-}
+	button {
+		margin: 0 0.2em 0.2em 0;
+	}
 
-button.sm {
-	padding: 0.18em 0.36em;
-	border-radius: 0.24em;
-	font-size: 0.85em;
-}
+	button:active {
+		filter: brightness(95%);
+	}
 
-button:active {
-	position: relative;
-	top: 0.1em;
-}
+	button.red {
+		border-color: var(--red);
+		color: var(--red);
+	}
 
-button {
-	margin: 0 0.2em 0.2em 0;
-}
+	button.blue {
+		border-color: var(--blue);
+		color: var(--blue);
+	}
 
-button:active {
-	filter: brightness(95%);
-}
+	button.yellow {
+		border-color: var(--yellow);
+		color: var(--yellow);
+	}
 
-button.red {
-	border-color: var(--red);
-	color: var(--red);
-}
+	button.orange {
+		border-color: var(--orange);
+		color: var(--orange);
+	}
 
-button.blue {
-	border-color: var(--blue);
-	color: var(--blue);
-}
+	button.purple {
+		border-color: var(--purple);
+		color: var(--purple);
+	}
 
-button.yellow {
-	border-color: var(--yellow);
-	color: var(--yellow);
-}
+	button.pink {
+		border-color: var(--pink);
+		color: var(--pink);
+	}
 
-button.orange {
-	border-color: var(--orange);
-	color: var(--orange);
-}
+	button.green {
+		border-color: var(--green);
+		color: var(--green);
+	}
 
-button.purple {
-	border-color: var(--purple);
-	color: var(--purple);
-}
+	button.lime {
+		border-color: var(--lime);
+		color: var(--lime);
+	}
 
-button.pink {
-	border-color: var(--pink);
-	color: var(--pink);
-}
-
-button.green {
-	border-color: var(--green);
-	color: var(--green);
-}
-
-button.lime {
-	border-color: var(--lime);
-	color: var(--lime);
-}
-
-button.teal {
-	border-color: var(--teal);
-	color: var(--teal);
-}
-
-
-
+	button.teal {
+		border-color: var(--teal);
+		color: var(--teal);
+	}
 </style>

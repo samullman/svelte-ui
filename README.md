@@ -4,14 +4,11 @@ Very chill, svelte-based, cross-browser UI library with utilities.
 
 ## Roadmap
 
-	Page
-	Section
-	Seciton.Hero
+    Page
+    Section
+    Seciton.Hero
 
-	Checkbox
-
-
-
+    Checkbox
 
 ```bash
 # create a new project in the current directory

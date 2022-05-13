@@ -2,7 +2,17 @@
 	import Section from '../../components/section.svelte';
 	import Heading from '../../components/heading.svelte';
 	import Button from '../../components/anchor.svelte';
-	const colors = ['red', 'green', 'blue', 'yellow', 'purple', 'pink', 'orange', 'teal', 'lime'];
+	const colors = [
+		'red',
+		'green',
+		'blue',
+		'yellow',
+		'purple',
+		'pink',
+		'orange',
+		'teal',
+		'lime'
+	];
 </script>
 
 <Section>

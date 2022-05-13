@@ -5,9 +5,8 @@
 <section>
 	<h2>
 		All Components
-		<hr style="margin-top:4px;" /> 
+		<hr style="margin-top:4px;" />
 	</h2>
 
 	<!-- <Buttons /> -->
-
 </section>

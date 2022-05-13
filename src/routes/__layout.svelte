@@ -1,6 +1,6 @@
 <script lang="ts">
-	import Header from '$lib/header/Header.svelte';
-	import Section from "../components/section.svelte";
+	import Header from '../components/header/index.svelte';
+	import Section from '../components/section.svelte';
 	import '../app.css';
 </script>
 
@@ -11,15 +11,10 @@
 </main>
 
 <footer>
-
-
-<Section>
-	visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit
-</Section>
-
+	<Section>
+		visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit
+	</Section>
 </footer>
-
-
 
 <style>
 	main {
@@ -36,5 +31,4 @@
 		flex-direction: column;
 		border-top: 1px solid #2d2d2d;
 	}
-
 </style>

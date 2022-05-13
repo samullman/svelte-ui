@@ -1,7 +1,17 @@
 <script>
 	import Section from '../../components/section.svelte';
 	import Heading from '../../components/heading.svelte';
-	const colors = ['red', 'green', 'blue', 'yellow', 'purple', 'pink', 'orange', 'teal', 'lime'];
+	const colors = [
+		'red',
+		'green',
+		'blue',
+		'yellow',
+		'purple',
+		'pink',
+		'orange',
+		'teal',
+		'lime'
+	];
 </script>
 
 <Section size="md">
@@ -13,42 +23,31 @@
 		</pre>
 	</div>
 
-
 	<div class="section-border">
-		<Section size="sm">
-			This element has padding
-		</Section>
-		</div>
-
-	<br />
-
-	<div class="section-border">
-	<Section size="md">
-		This element has padding
-	</Section>
+		<Section size="sm">This element has padding</Section>
 	</div>
 
 	<br />
 
 	<div class="section-border">
-	<Section size="lg">
-		This element has padding
-	</Section>
+		<Section size="md">This element has padding</Section>
 	</div>
 
 	<br />
 
 	<div class="section-border">
-	<Section size="xl">
-		This element has padding
-	</Section>
+		<Section size="lg">This element has padding</Section>
+	</div>
+
+	<br />
+
+	<div class="section-border">
+		<Section size="xl">This element has padding</Section>
 	</div>
 </Section>
-
 
 <style lang="scss">
 	.section-border {
 		border: 1px dashed green;
 	}
-
 </style>

@@ -1,7 +1,7 @@
 <section>
 	<h2>
 		Tabs
-		<hr style="margin-top:4px;" /> 
+		<hr style="margin-top:4px;" />
 	</h2>
 
 	<div>
@@ -13,9 +13,6 @@
 	<div>
 		Foobar
 
-		<div>
-			asdfkjnasdfkjnasdf
-		</div>
+		<div>asdfkjnasdfkjnasdf</div>
 	</div>
-
 </section>

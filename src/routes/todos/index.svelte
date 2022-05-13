@@ -66,7 +66,11 @@
 			}
 		}}
 	>
-		<input name="text" aria-label="Add todo" placeholder="+ tap to add a todo" />
+		<input
+			name="text"
+			aria-label="Add todo"
+			placeholder="+ tap to add a todo"
+		/>
 	</form>
 
 	{#each todos as todo (todo.uid)}
@@ -87,7 +91,10 @@
 				}}
 			>
 				<input type="hidden" name="done" value={todo.done ? '' : 'true'} />
-				<button class="toggle" aria-label="Mark todo as {todo.done ? 'not done' : 'done'}" />
+				<button
+					class="toggle"
+					aria-label="Mark todo as {todo.done ? 'not done' : 'done'}"
+				/>
 			</form>
 
 			<form
@@ -98,7 +105,12 @@
 					result: patch
 				}}
 			>
-				<input aria-label="Edit todo" type="text" name="text" value={todo.text} />
+				<input
+					aria-label="Edit todo"
+					type="text"
+					name="text"
+					value={todo.text}
+				/>
 				<button class="save" aria-label="Save todo" />
 			</form>
 
@@ -112,7 +124,11 @@
 					}
 				}}
 			>
-				<button class="delete" aria-label="Delete todo" disabled={todo.pending_delete} />
+				<button
+					class="delete"
+					aria-label="Delete todo"
+					disabled={todo.pending_delete}
+				/>
 			</form>
 		</div>
 	{/each}

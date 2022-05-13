@@ -1,34 +1,34 @@
 <script>
-	export let size = "";
-	export let flat = "";
+	export let size = '';
+	export let flat = '';
 </script>
 
 {#if size == 'h6'}
-	<h6 class={ flat }>
+	<h6 class={flat}>
 		<slot />
 	</h6>
 {:else if size == 'h5'}
-	<h5 class={ flat }>
+	<h5 class={flat}>
 		<slot />
 	</h5>
 {:else if size == 'h4'}
-	<h4 class={ flat }>
+	<h4 class={flat}>
 		<slot />
 	</h4>
 {:else if size == 'h3'}
-	<h3 class={ flat }>
+	<h3 class={flat}>
 		<slot />
 	</h3>
 {:else if size == 'h2'}
-	<h2 class={ flat }>
+	<h2 class={flat}>
 		<slot />
 	</h2>
 {:else if size == 'h1'}
-	<h1 class={ flat }>
+	<h1 class={flat}>
 		<slot />
 	</h1>
 {:else}
-	<h2 class={ flat }>
+	<h2 class={flat}>
 		<slot />
 	</h2>
 {/if}
@@ -40,7 +40,7 @@
 	h4,
 	h5,
 	h6 {
-		margin-top: 0;
+		margin-top: 1rem;
 
 		&.flat {
 			margin-bottom: 0 !important;
@@ -54,26 +54,26 @@
 
 	h2 {
 		margin-bottom: 0.8rem;
-		font-size: 2.4em;
+		font-size: 2.5em;
 	}
 
 	h3 {
 		margin-bottom: 0.6rem;
-		font-size: 1.8em;
+		font-size: 2em;
 	}
 
 	h4 {
 		margin-bottom: 0.4rem;
-		font-size: 1.2em;
+		font-size: 1.5em;
 	}
 
 	h5 {
 		margin-bottom: 0.2rem;
-		font-size: 0.8em;
+		font-size: 1em;
 	}
 
 	h6 {
 		margin-bottom: 0.1rem;
-		font-size: 0.4em;
+		font-size: 0.5em;
 	}
 </style>

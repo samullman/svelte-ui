@@ -1,16 +1,14 @@
 <script>
-	export let size = "";
+	export let size = '';
 </script>
 
-
-<section class={ size }>
-	<slot /> 
+<section class={size}>
+	<slot />
 </section>
 
-
 <style lang="scss">
-
-	section, section.md {
+	section,
+	section.md {
 		padding: 1em;
 	}
 
@@ -31,6 +29,6 @@
 	}
 
 	section:not(:last-child) {
-		margin-bottom: 1em;		
+		margin-bottom: 1em;
 	}
 </style>

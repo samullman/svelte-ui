@@ -4,21 +4,30 @@
 	import Section from '../components/section.svelte';
 	import Heading from '../components/heading.svelte';
 
-	const colors = ['red', 'green', 'blue', 'yellow', 'purple', 'pink', 'orange', 'teal', 'lime'];
+	const colors = [
+		'red',
+		'green',
+		'blue',
+		'yellow',
+		'purple',
+		'pink',
+		'orange',
+		'teal',
+		'lime'
+	];
 
-
-	function copyColor ( e ) {
-		let color = getComputedStyle(document.documentElement)
-    .getPropertyValue('--' + e.currentTarget.dataset.color);
+	function copyColor(e) {
+		let color = getComputedStyle(document.documentElement).getPropertyValue(
+			'--' + e.currentTarget.dataset.color
+		);
 		navigator.clipboard
-      .writeText( color )
-      .then(( e ) => {
-        console.log( e )
-      })
-      .catch((err) => {
-        console.log(err);
-        
-      });
+			.writeText(color)
+			.then((e) => {
+				console.log(e);
+			})
+			.catch((err) => {
+				console.log(err);
+			});
 	}
 	// let mapComponent, someLat, someLng, someZoom;
 
@@ -52,7 +61,7 @@
 
 	<div class="colors-grid">
 		{#each colors as color}
-			<div class="clickable" data-color={ color } on:click={ copyColor }>
+			<div class="clickable" data-color={color} on:click={copyColor}>
 				<div class={'color-box ' + color} />
 				{color}
 			</div>
@@ -60,67 +69,6 @@
 	</div>
 
 	<br />
-
-	<div>
-		<Heading size="h3">Sidebar</Heading>
-
-		<ul>
-			<li>
-				<a sveltekit:prefetch href="/components"> All components </a>
-			</li>
-
-			<li>
-				<a sveltekit:prefetch href="/components/anchor"> Anchor </a>
-			</li>
-
-			<li>
-				<a sveltekit:prefetch href="/components/button"> Button </a>
-			</li>
-
-			<li>
-				<a sveltekit:prefetch href="/components/input"> Input </a>
-			</li>
-
-
-			<li>
-				<a sveltekit:prefetch href="/components/section"> Section </a>
-			</li>
-
-			<li>
-				<a sveltekit:prefetch href="/components/breadcrumb"> Breadcrumb </a>
-			</li>
-
-			<li>
-				<a sveltekit:prefetch href="/components/accordion"> Accordion </a>
-			</li>
-
-			<li>
-				<a sveltekit:prefetch href="/components/tabs"> Tabs </a>
-			</li>
-
-			<li>Container</li>
-
-			<li>
-				Tooltip
-
-				<ul>
-					<li>Light</li>
-					<li>Dark</li>
-				</ul>
-			</li>
-			<li>
-				<a sveltekit:prefetch href="/components/input"> Input </a>
-
-				<ul>
-					<li>Text</li>
-					<li>Checkbox</li>
-					<li>Radio</li>
-					<li>Select</li>
-					<li>Colorwheel</li>
-				</ul>
-			</li>
-		</ul>
-	</div>
 </Section>
 
 <!-- <Map

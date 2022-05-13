@@ -1,3 +1,3 @@
-import Button from "./button/Button.svelte";
+import Button from './button/Button.svelte';
 
-export { Button, }
+export { Button };
